@@ -1,4 +1,4 @@
-#Cree una clase CuentaBancaria que contenga los siguientes atributos:
+# 7.Cree una clase CuentaBancaria que contenga los siguientes atributos:
 # numero_cuenta, propietarios y balance. Los tres atributos se deben
 # inicializar en el constructor con valores recibidos como parámetros.
 
@@ -10,9 +10,3 @@ class CuentaBancaria:
         self.numero_cuenta = numero_cuenta
         self.propietarios = propietarios
         self.balance = balance
-
-
-    def mostrar_datos(self):
-        print(f"Número de cuenta: {self.numero_cuenta}")
-        print(f"Propietarios: {self.propietarios}")
-        print(f"Balance: {self.balance}")
