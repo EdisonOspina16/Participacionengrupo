@@ -29,9 +29,4 @@ if __name__ == "__main__":
  print("punto_Y: ", Punto.y)
 
 
-# A la clase del punto anterior, defínale los siguientes métodos:
-# - Un método mostrar que imprima por consola las coordenadas del punto
-# - Un método mover que cambie las coordenadas del punto
-# - Un método calcular_distancia que calcule la distancia de la instancia actual con otro punto.
-
 
